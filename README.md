@@ -3,7 +3,7 @@ This is a very basic neural network which is trained using backpropagation (Back
 Input and expected ouput:<br>
 !["Input and Output"](inputs.png "Input and Output")
 
-Nueral network output:<br>
+Nueral network output:<br><br>
 !["Neural Network Ouput"](outputs.png "Neural Network Ouput")
 
 
